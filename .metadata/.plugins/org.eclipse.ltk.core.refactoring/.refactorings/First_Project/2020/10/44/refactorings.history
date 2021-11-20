@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;first_module.DoWhile&apos; to &apos;While&apos;&#x0D;&#x0A;- Original project: &apos;First_Project&apos;&#x0D;&#x0A;- Original element: &apos;first_module.DoWhile&apos;&#x0D;&#x0A;- Renamed element: &apos;first_module.While&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;DoWhile&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;first_module{DoWhile.java[DoWhile" matchStrategy="1" name="While" qualified="false" references="true" similarDeclarations="false" stamp="1603881163871" textual="false" version="1.0"/>
+</session>
